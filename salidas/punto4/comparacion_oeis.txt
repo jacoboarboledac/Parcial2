@@ -1,0 +1,13 @@
+Referencia: https://oeis.org/A000170
+N=1: 1; coincide con OEIS (1)
+N=2: 0; coincide con OEIS (0)
+N=3: 0; coincide con OEIS (0)
+N=4: 2; coincide con OEIS (2)
+N=5: 10; coincide con OEIS (10)
+N=6: 4; coincide con OEIS (4)
+N=7: 40; coincide con OEIS (40)
+N=8: 92; coincide con OEIS (92)
+N=9: 352; coincide con OEIS (352)
+N=10: 724; coincide con OEIS (724)
+N=11: 2680; coincide con OEIS (2680)
+N=12: 14200; coincide con OEIS (14200)

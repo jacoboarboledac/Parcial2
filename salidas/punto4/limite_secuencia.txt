@@ -1,0 +1,1 @@
+N=13: 73712 soluciones; 10953.618 ms. Se calculó completo, pero no se incluye en secuencia_reinas.csv porque no tardó menos de 10000 ms.

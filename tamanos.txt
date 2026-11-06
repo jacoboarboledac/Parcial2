@@ -1,0 +1,5 @@
+# tamaños del tablero
+4
+5
+6
+8

@@ -1,0 +1,4 @@
+Línea 2: 1 3 0 2 -> válida
+Línea 3: 0 2 1 3 -> inválida: reinas {0,0} y {3,3} en la misma diagonal; reinas {1,2} y {2,1} en la misma diagonal
+Línea 4: 1 3 0 0 -> inválida: reinas {2,0} y {3,0} en la misma columna
+Línea 5: 2 4 1 -> inválida: fila 1: la columna 4 está fuera de un tablero de 3 × 3
